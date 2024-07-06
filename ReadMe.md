@@ -14,7 +14,7 @@ To run the notebook, you need to set up a Python environment and install the nec
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-github-username/FinancialNews-SentimentAnalysis-ChatGPT-FineTuning.git
+   git clone https://github.com/koushik0044/FinancialNews-SentimentAnalysis-ChatGPT-FineTuning.git
    ```
 2. Navigate to the repository directory:
    ```
